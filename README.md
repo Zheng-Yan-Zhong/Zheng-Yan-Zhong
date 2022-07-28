@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Dennis.
+
+- JavaScript
 
 <!--
 **Zheng-Yan-Zhong/Zheng-Yan-Zhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
